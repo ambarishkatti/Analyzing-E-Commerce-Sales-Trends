@@ -3,6 +3,13 @@ Refer the merged file named all_data
 # Pandas-Data-Science-Tasks
 Set of real world data science tasks completed using the Python Pandas library.
 
+Overview - •	12 months of Sales data of more than 18Lakh rows, has been cleaned with Python Pandas DataFrames
+•	Defining the problem statement such as 
+Highest to Lowest Sales based on City and Month, Peak time to show Advertisements, 
+                        Products that are sold together
+•	Plotting visuals with matplotlib.pyplot  to show trends and identify pros and cons of business
+
+
 Starting with cleaning our data. Tasks during this section include:
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
